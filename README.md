@@ -7,7 +7,7 @@ Prueba Departamental BIG DATA R Studio ( Comparativo Estadístico Sueldos vs Pro
 Para comenzar el proyecto, se fijaron ciertos parametros donde se realizo bajo una base de datos una comparativa entre distintas personas segun su genero, el sueldo que ganaban, las edades y sus profesiones  con el fin de poder analizarlos y desarrollarlos estadisticamente en el siguiente proyecto.
 
 
-### Pre-requisitos 📋
+### PASO A PASO📋
 
 
 ```
