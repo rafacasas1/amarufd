@@ -1,6 +1,6 @@
  Título del Proyecto
 
-Prueba R Studio ( Comparativo Estadístico Sueldos vs Profesión vs Edad vs Sexo ) - Rafael Higueras Casas 
+Prueba Departamental BIG DATA R Studio ( Comparativo Estadístico Sueldos vs Profesión vs Edad vs Sexo ) - Rafael Higueras Casas 
 
 ## Comenzando 🚀
 
