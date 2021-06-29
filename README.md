@@ -20,8 +20,8 @@ library(view)
 library(ggplot2)
 
 
-__Herramientas utilizadas__
-* [Excel]
+### Herramientas utilizadas
+* [Exel]
 * [Github]
 * [Rstudio]
 
