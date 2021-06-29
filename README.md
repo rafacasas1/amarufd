@@ -17,7 +17,7 @@ Para comenzar el proyecto, se fijaron ciertos parametros donde se realizo bajo u
 *library(print)
 *library(readxl)
 *library(view)
-*library(ggplot2)
+*[library(ggplot2)]
 
 ### Herramientas utilizadas
 * [Exel]
