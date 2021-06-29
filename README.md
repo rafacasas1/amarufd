@@ -12,11 +12,14 @@ Para comenzar el proyecto, se fijaron ciertos parametros donde se realizo bajo u
 
 
 ### Archivos descargables:
+
 library(modeest)
 library(print)
 library(readxl)
 library(view)
 library(ggplot2)
+
+
 __Herramientas utilizadas__
 * [Excel]
 * [Github]
