@@ -8,7 +8,7 @@ Para comenzar el proyecto, se fijaron ciertos parametros donde se realizo bajo u
 
 
 ### PASO A PASO📋
- De primeras se importa la base de datos extraida de excel con profesiones, generos, edades y sueldos para luego ser aplicadas por el comando  View  para setear el nombre de sus columnas, de esta forma comenxar a realizar la graficacion de los datos , en la cual se grafico la diferencia de renta segun el sexo del trabajador, concluyendo segun este analisis comparativo que los sueldos mas altos son recibidos por personas de genero femenino posterir a el analisis de esos datos se genero un segundo grafico, el cual demostraba el nivel de renta segun las profesiones que cumplian los evaluados, obteniendo un resultado en el cual se podia apreciar un sueldo superior a aquellas personas que estudian Administracion de empresa a diferencia de ingenieria comercial los cuales registraban los sueldos mas bajos. 
+ De primeras se importa la base de datos extraida de excel con profesiones, generos, edades y sueldos para luego ser aplicadas por el comando  View  para setear el nombre de sus columnas, de esta forma comenzar a realizar la graficacion de los datos , en la cual se grafico la diferencia de renta segun el sexo del trabajador, concluyendo segun este analisis comparativo que los sueldos mas altos son recibidos por personas de genero femenino posterir a el analisis de esos datos se genero un segundo grafico, el cual demostraba el nivel de renta segun las profesiones que cumplian los evaluados, obteniendo un resultado en el cual se podia apreciar un sueldo superior a aquellas personas que estudian Administracion de empresa a diferencia de ingenieria comercial los cuales registraban los sueldos mas bajos.
 
 
 ### Archivos descargables:
